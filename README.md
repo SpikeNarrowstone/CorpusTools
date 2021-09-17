@@ -22,3 +22,7 @@ QUITA用于文本风格相关特征量化。打开QUITA软件，选择Project—
 3. AntConc
 
 AntConc软件由日本早稻田大学Laurence Anthony研发，可将文件中的词表分布可视化呈现。
+
+4. GraphColl
+
+GraphColl是建立和探索语言搭配网络的工具，由兰卡斯特大学社会科学语料库方法研究中心（Centre for Corpus Approaches to Social Science，CASS）研发。下载解压软件后运行GraphColl，能够通过语篇词汇共现统计（collocation）实现语篇的概念网络的可视化呈现。
